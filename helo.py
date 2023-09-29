@@ -1,1 +1,1 @@
-print("This is another String Paul")
+print("This is a new string, hello")
